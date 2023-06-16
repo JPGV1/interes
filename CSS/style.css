@@ -22,3 +22,34 @@ nav ul li {
     display: inline-block;
     margin-right: 10px;
 }
+nav ul li a {
+    text-decoration: none;
+    padding: 5px;
+    color: #333;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #fff;
+    background-color: #333;
+    transition: all 0.3s ease;
+}
+
+/*Estilos para las secciones */
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #333;
+    margin-top: 0;
+}
+
+section p {
+    color: #666;
+    line-height: 1.5;
+}
