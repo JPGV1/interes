@@ -12,5 +12,5 @@ Este es un proyecto web, donde se desarrollara una pagina de interes, sin nada d
 * js
 
 # Creado por:
-Juan Pablo García Villa
-Deivid Callejas
+* Juan Pablo García Villa
+* Deivid Callejas
